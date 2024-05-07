@@ -1,0 +1,9 @@
+{
+	"name": "sampleADF-PM",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5a415051-95d8-4123-9acf-54e56f2f1924",
+		"tenantId": "f8300747-02c3-470c-a3d6-5a3355e3d77d"
+	}
+}
